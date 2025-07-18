@@ -1,4 +1,4 @@
-# Future_Intern_DS_01
+# Future_DS_01
 
 🛒 Business Sales Dashboard from E-commerce Data
 
